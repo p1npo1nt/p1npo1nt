@@ -22,5 +22,5 @@ I'm a developer and entrepreneur who develops machine learning tools.
 
 
 
-![Logo](https://i.imgur.com/pqWSBn3.png)
+![Logo](https://i.imgur.com/4p2dHpn.png)
 
