@@ -26,5 +26,5 @@ I'm a student, developer, researcher, entrepreneur, and non-profit developer.
 
 
 
-![Logo](https://i.imgur.com/4p2dHpn.png)
+![Logo](https://simpleicons.org/icons/codechef.svg)
 
