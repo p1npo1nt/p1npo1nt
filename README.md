@@ -33,6 +33,3 @@ Fullstack web developer, Python/C++/JS, pianist, varsity cross-country and track
 ![Logo](https://simpleicons.org/icons/codechef.svg)
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
-
