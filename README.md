@@ -3,7 +3,12 @@
 
 
 ## 🚀 About Me
-I'm a developer and entrepreneur who develops machine learning tools. 
+I'm a student, developer, researcher, entrepreneur, and non-profit developer.
+
+### What I do
+1. I'm a co-founder of a tech startup
+2. I'm a co-founder of a community-focused tech non-profit
+3. I'm a student researcher in the field of machine learning and its applications in quantitative finance
 
 
 
