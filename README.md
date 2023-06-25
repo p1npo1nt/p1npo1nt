@@ -11,7 +11,7 @@ I'm a student, developer, researcher, entrepreneur, and non-profit developer.
 3. I'm a student researcher in the field of machine learning and its applications in quantitative finance
 
 
-## 🛠 Skills
+## 🛠 Other stuff that I can do:
 Fullstack web developer, Python/C++/JS, pianist, varsity cross-country and track, 130 WPM (https://monkeytype.com/profile/biscu1t)
 
 
@@ -22,8 +22,6 @@ Fullstack web developer, Python/C++/JS, pianist, varsity cross-country and track
 
 
 
-
-## Other Common Github Profile Sections
 ### 👩‍💻 I'm currently working on my startup Tickr and non-profit Reboots9
 
 📫 How to reach me: vgovardhanen@
